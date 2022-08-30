@@ -1,6 +1,6 @@
 My name is Justin! I'm a Full-Stack Developer from General Assembly
 
-<img src='C:\Users\justi\Downloads\My project-1.png' alt="banner"></img>
+<img src='https://i.imgur.com/c8pvNHX.png' alt="banner"></img>
 
 Here's a short list of my skills:
 
