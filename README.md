@@ -12,10 +12,13 @@
 
 Let’s connect if you’re interested in digital transformation, healthcare tech, or building meaningful products that serve real people.
 
-Here's a short list of my skills:
+Here's a list of my skills:
 
-
--NodeJS / Express / JavaScript
+Programming Languages: HTML5, CSS3, JavaScript (ES6+), PHP, Python, SQL
+Frameworks & Libraries: React.js, Node.js, Express.js, Django, Bootstrap, Tailwind CSS, jQuery
+Databases: MongoDB, Mongoose, PostgreSQL, MySQL
+Tools & Technologies: Git, RESTful APIs, JSON, AJAX, Google Analytics, Google Tag Manager, Mailchimp, Drift, WordPress, Elementor
+Other Skills: Responsive Web Design, Cross-Browser Compatibility, SEO Best Practices, A/B & Multivariate Testing, Web Accessibility (WCAG), CMS Integration, Marketing Automation
 
 
 
